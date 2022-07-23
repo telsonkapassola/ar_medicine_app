@@ -1,9 +1,11 @@
 import 'package:arcore_example/views/homeView.dart';
-import 'package:arcore_example/views/onboardingView.dart';
+import 'package:arcore_example/views/login/loginView.dart';
+import 'package:arcore_example/views/onboarding/onboardingView.dart';
+import 'package:arcore_example/views/signup/signupView.dart';
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 
-import 'views/welcomeView.dart';
+import 'views/welcome_view.dart';
 
 void main() {
   WidgetsFlutterBinding.ensureInitialized();
@@ -28,7 +30,7 @@ class MyApp extends StatelessWidget {
               iconTheme: const IconThemeData(color: Colors.black),
               titleTextStyle:
                   GoogleFonts.nunito(color: Colors.black, fontSize: 20))),
-      home: OnBoardingPage(),
+      home: Login(),
     );
   }
 }
