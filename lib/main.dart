@@ -28,7 +28,7 @@ class MyApp extends StatelessWidget {
               iconTheme: const IconThemeData(color: Colors.black),
               titleTextStyle:
                   GoogleFonts.nunito(color: Colors.black, fontSize: 20))),
-      home: OnBoardingPage(title: 'OperAR Home Page'),
+      home: OnBoardingPage(),
     );
   }
 }

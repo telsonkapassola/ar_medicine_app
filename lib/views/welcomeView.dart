@@ -1,4 +1,5 @@
 
+import 'package:arcore_example/core/config/app_configs.dart';
 import 'package:flutter/material.dart';
 import 'package:percent_indicator/percent_indicator.dart';
 
@@ -25,7 +26,7 @@ class WelcomePage extends StatelessWidget {
         leadingWidth: 70,
         toolbarHeight: 70,
         //title: Text(this.title),
-        backgroundColor: Color(0xff44ec9e),
+        backgroundColor: AppColors.primaryColor,
         actions: [
           Row(
             children: [
@@ -34,11 +35,10 @@ class WelcomePage extends StatelessWidget {
                   alignment: Alignment.center,
                   decoration: BoxDecoration(
                     boxShadow: [
-                      BoxShadow(blurRadius: 7, spreadRadius: 3, color: Color(
-                          0xff3dd992))
+                      BoxShadow(blurRadius: 7, spreadRadius: 3, color: AppColors.primaryColorDarker)
                     ],
                     shape: BoxShape.circle,
-                    color: Color(0xff44ec9e),
+                    color: AppColors.primaryColor,
                   ),
                   child: GestureDetector(
                     onTap: ()=> print('marcações'),
@@ -51,11 +51,10 @@ class WelcomePage extends StatelessWidget {
                 alignment: Alignment.center,
                 decoration: BoxDecoration(
                   boxShadow: [
-                    BoxShadow(blurRadius: 7, spreadRadius: 3, color: Color(
-                        0xff3dd992))
+                    BoxShadow(blurRadius: 7, spreadRadius: 3, color: AppColors.primaryColorDarker)
                   ],
                   shape: BoxShape.circle,
-                  color: Color(0xff44ec9e),
+                  color: AppColors.primaryColor,
                 ),
                 child: GestureDetector(
                   onTap: ()=> print('notificações'),
@@ -77,7 +76,7 @@ class WelcomePage extends StatelessWidget {
                   width: MediaQuery.of(context).size.width,
                   height: MediaQuery.of(context).size.height / 10,
                   decoration: BoxDecoration(
-                      color: Color(0xff44ec9e),
+                      color: AppColors.primaryColor,
                       borderRadius: BorderRadius.only(
                         bottomRight: Radius.circular(40),
                         bottomLeft: Radius.circular(40),

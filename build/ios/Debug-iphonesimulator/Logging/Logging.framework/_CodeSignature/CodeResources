@@ -18,15 +18,15 @@
 		</data>
 		<key>Modules/Logging.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		+miKC2XTVBh/OI727reW4bafVFY=
+		PgEfVh4XPr1zDrgBU5xF0Wv7kuA=
 		</data>
 		<key>Modules/Logging.swiftmodule/Project/i386-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		7bWH+iKJdGW14XDoOo2LfsSgWFw=
+		bDA2n9dccn6DiCVLfV4fd6Vj+j4=
 		</data>
 		<key>Modules/Logging.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		0+OE/J95+X0JCWjByNskReIicpA=
+		/ThE34qqUMeKexy9uNw7fl4yWWs=
 		</data>
 		<key>Modules/Logging.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -34,7 +34,7 @@
 		</data>
 		<key>Modules/Logging.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		FF3K6vJXAUPM1iHQdvo/aeg5VW4=
+		wBCAUDuJmOBdgkj6fuoedrpiWyE=
 		</data>
 		<key>Modules/Logging.swiftmodule/i386-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -42,7 +42,7 @@
 		</data>
 		<key>Modules/Logging.swiftmodule/i386-apple-ios-simulator.swiftmodule</key>
 		<data>
-		b4z0nlSsDDImoxhgdRembp6I7h8=
+		ERYwN4dOmbqOcrCq3GVF9xtpbAU=
 		</data>
 		<key>Modules/Logging.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -50,7 +50,7 @@
 		</data>
 		<key>Modules/Logging.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		CvPkh0Ym/T2NtOROuBFJ0VdaWls=
+		ySjcM/xca/rU128GZ7jyvE5supg=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -85,33 +85,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			+miKC2XTVBh/OI727reW4bafVFY=
+			PgEfVh4XPr1zDrgBU5xF0Wv7kuA=
 			</data>
 			<key>hash2</key>
 			<data>
-			36suR6NjaXDtF3dfFDs3xXy+La8BMlUFMfpOj1/7qgs=
+			lSlXvGPe9IHkShvZyLvguAkGdVs2hObng01zBnEG99k=
 			</data>
 		</dict>
 		<key>Modules/Logging.swiftmodule/Project/i386-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			7bWH+iKJdGW14XDoOo2LfsSgWFw=
+			bDA2n9dccn6DiCVLfV4fd6Vj+j4=
 			</data>
 			<key>hash2</key>
 			<data>
-			y9X6/CJ6fq4G9RUSj+LQ0TbsI+qD7s+TvEFiSy4Hes8=
+			sh3DZcfpy0g90Rd0/Lkjs25bIVOiiuz1PW9MyF2IFNU=
 			</data>
 		</dict>
 		<key>Modules/Logging.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			0+OE/J95+X0JCWjByNskReIicpA=
+			/ThE34qqUMeKexy9uNw7fl4yWWs=
 			</data>
 			<key>hash2</key>
 			<data>
-			8FtVYMo1KbO5/o+jw/rMeinVK5Fuf1Smv1gDUhUySgU=
+			wBXu/BF3DrVTGAmkFNCJsMzcMndKAXe4ria9f9djWEY=
 			</data>
 		</dict>
 		<key>Modules/Logging.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
@@ -129,11 +129,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			FF3K6vJXAUPM1iHQdvo/aeg5VW4=
+			wBCAUDuJmOBdgkj6fuoedrpiWyE=
 			</data>
 			<key>hash2</key>
 			<data>
-			Pg2u4aQvDiABVIVxiEIYSgkpYQ75yTY8s1WxreYlCfQ=
+			D+c+D0zOGXQgTgThqMcqTXLA+CYYJ/rGOQUVMGhPktU=
 			</data>
 		</dict>
 		<key>Modules/Logging.swiftmodule/i386-apple-ios-simulator.swiftdoc</key>
@@ -151,11 +151,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			b4z0nlSsDDImoxhgdRembp6I7h8=
+			ERYwN4dOmbqOcrCq3GVF9xtpbAU=
 			</data>
 			<key>hash2</key>
 			<data>
-			92OmJGKM0z4tbjZ00gPH401T209BZPxEisClwBQh+Eg=
+			nKSOsbcWpwqzTUzH/0YdILAPUpjS1Xc/Y3ZNqPkKaQs=
 			</data>
 		</dict>
 		<key>Modules/Logging.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -173,11 +173,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			CvPkh0Ym/T2NtOROuBFJ0VdaWls=
+			ySjcM/xca/rU128GZ7jyvE5supg=
 			</data>
 			<key>hash2</key>
 			<data>
-			HtoaZX/mWjCZk3bWIESwl+opsFxBOHhe5sxpbb0pgfA=
+			UnQZiVoI6FjFeaD/c4YgibMDmyrDfCo66bVtQVLcA/4=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

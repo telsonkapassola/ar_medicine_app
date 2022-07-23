@@ -18,15 +18,15 @@
 		</data>
 		<key>Modules/KituraContracts.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		KG6EKIB/7INrnqv/H/sQNDmo5vI=
+		IritZjIQInw/idbnIFyxACofh2o=
 		</data>
 		<key>Modules/KituraContracts.swiftmodule/Project/i386-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		4G8WCNeEVU0BlqpmuLAEbNel5N8=
+		Ar5aHFVxVmQSpOkKlCPQcRiHUg0=
 		</data>
 		<key>Modules/KituraContracts.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		2prKM+bPTdJfAdbfczHZdehZVmI=
+		ub2oRQni/WI9R3zKJo6skZ2WKd0=
 		</data>
 		<key>Modules/KituraContracts.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -34,7 +34,7 @@
 		</data>
 		<key>Modules/KituraContracts.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		ecWLUaq2E+HfITAPoW6Y2QdQjdo=
+		IJ2fRpgxVDFq53uFlEIz87i7RmM=
 		</data>
 		<key>Modules/KituraContracts.swiftmodule/i386-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -42,7 +42,7 @@
 		</data>
 		<key>Modules/KituraContracts.swiftmodule/i386-apple-ios-simulator.swiftmodule</key>
 		<data>
-		8NgHasrHkCPn2pgUFFvZrcopbtk=
+		9E9Ir895xgyepa5Mk+Y920dbZ2g=
 		</data>
 		<key>Modules/KituraContracts.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -50,7 +50,7 @@
 		</data>
 		<key>Modules/KituraContracts.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		SEjLKRXSBR1Sasu7IE0J+FVSwHs=
+		M/rTlHPylpCnTncHmIKTef1GWOI=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -85,33 +85,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			KG6EKIB/7INrnqv/H/sQNDmo5vI=
+			IritZjIQInw/idbnIFyxACofh2o=
 			</data>
 			<key>hash2</key>
 			<data>
-			25I2C6PLLM+pL45HmcNC5xPF3Eoi1dMRR6ucFkx3PpI=
+			wj1xa60LxixghNUY06dEc+p6WYHi4KTkzMcJ8n96sY0=
 			</data>
 		</dict>
 		<key>Modules/KituraContracts.swiftmodule/Project/i386-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			4G8WCNeEVU0BlqpmuLAEbNel5N8=
+			Ar5aHFVxVmQSpOkKlCPQcRiHUg0=
 			</data>
 			<key>hash2</key>
 			<data>
-			KkUydds4TLLXybcBba/9DiPCWsvAhblaMwygzAQ8gEY=
+			d0ftBi+paU9K/PPQu8z3EwPL42prTWI5kEQY1XZr+ps=
 			</data>
 		</dict>
 		<key>Modules/KituraContracts.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			2prKM+bPTdJfAdbfczHZdehZVmI=
+			ub2oRQni/WI9R3zKJo6skZ2WKd0=
 			</data>
 			<key>hash2</key>
 			<data>
-			AWdRj4XOEFh3cajSOxTLjZq6HX51w5tT1Xz05b5hRcc=
+			7LJyIR+J8L39ijqNcZNW7RYNXjNINVEdQvD6zX9NnFg=
 			</data>
 		</dict>
 		<key>Modules/KituraContracts.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
@@ -129,11 +129,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ecWLUaq2E+HfITAPoW6Y2QdQjdo=
+			IJ2fRpgxVDFq53uFlEIz87i7RmM=
 			</data>
 			<key>hash2</key>
 			<data>
-			MGemLrMfJaLjtBas373Q8qC7I6bjNP+qjKyQprP4Kno=
+			EFcTplw9CDw4mCQ8cTQxrVMV2MUpah8a3EqQlkyCg5E=
 			</data>
 		</dict>
 		<key>Modules/KituraContracts.swiftmodule/i386-apple-ios-simulator.swiftdoc</key>
@@ -151,11 +151,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			8NgHasrHkCPn2pgUFFvZrcopbtk=
+			9E9Ir895xgyepa5Mk+Y920dbZ2g=
 			</data>
 			<key>hash2</key>
 			<data>
-			VUnWQMN5QRzdUkKuTsTj43ALHNUG8vWrsEZHHnExsNw=
+			e53C8uqeOc6Nn0USAOsYXKJE9SIClVkYLDo2zOVT5cg=
 			</data>
 		</dict>
 		<key>Modules/KituraContracts.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -173,11 +173,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			SEjLKRXSBR1Sasu7IE0J+FVSwHs=
+			M/rTlHPylpCnTncHmIKTef1GWOI=
 			</data>
 			<key>hash2</key>
 			<data>
-			e9w3yh0EZcRpan6v7MF/lZmnKP8KyX0e0KF21NTZMvg=
+			gwEmbarxPBSEZqSkxbdkddeNieBG7RRNUhrMMgppyUE=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

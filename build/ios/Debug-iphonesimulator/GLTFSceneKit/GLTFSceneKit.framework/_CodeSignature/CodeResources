@@ -46,11 +46,11 @@
 		</data>
 		<key>Modules/GLTFSceneKit.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		LeYC+IHDdwQAIMb2moZmHq/S0wk=
+		MIAUaOs6ThM7AcfOyLJ8a1uXc6g=
 		</data>
 		<key>Modules/GLTFSceneKit.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		Yl8NjgpPqk4u0cJ4Wr40XPJqDzg=
+		wn+dRkgBKV6WoAU6pn+2nDacuz4=
 		</data>
 		<key>Modules/GLTFSceneKit.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -58,7 +58,7 @@
 		</data>
 		<key>Modules/GLTFSceneKit.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		++OONned2jpOt3mpSy34VvBca+I=
+		GXay07u9cq5LNjXQ941ghL02Yts=
 		</data>
 		<key>Modules/GLTFSceneKit.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -66,7 +66,7 @@
 		</data>
 		<key>Modules/GLTFSceneKit.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		vI4g2OAqZR7JOQlSMMJvzITUpOo=
+		ya/vjnABdVyY84g3At3YXApQzic=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -142,14 +142,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			84TgxEDLE18c/IE8Sp80gXrxiIwpyAYmL7FNqCNwG/0=
+			X/lIrErvUTAKT5ZeDYCsDQ7IYZoqS0FkLJc2xkeXYlI=
 			</data>
 		</dict>
 		<key>Modules/GLTFSceneKit.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			UZrzpj3I+LTU3GeykwS7B+Q+lbS5L6eooNIYn2K1rSA=
+			cH7jm3VsW/oduMEwDzU1JNDATeRPyrx2MjPpO6SpRqc=
 			</data>
 		</dict>
 		<key>Modules/GLTFSceneKit.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
@@ -163,7 +163,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			24WQOaXr0IhSlfLreXwYN8oBnq463xvfYBh/l/z8OOw=
+			J2FyTWsz6kc0z43+r66RrfzjGXhFIZ87hb8dmA3rLl4=
 			</data>
 		</dict>
 		<key>Modules/GLTFSceneKit.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -177,7 +177,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			MPkLe+T6DWQsZcTWhXi/hU+/tN1YQuxXgNeZ1JdFVTE=
+			Az30UQLrMM35kH0+q55XBWwjV4VVKzHSc6Fqj/HEfRg=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
